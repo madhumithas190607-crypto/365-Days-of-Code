@@ -5,3 +5,4 @@ This repository contains my daily Java coding practice.
 ## Progress
 
 - ✅ Day 001 - Hello World
+- ✅ Day 002 - Variables
