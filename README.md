@@ -8,3 +8,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 002 - Variables
 - ✅ Day 003 - Data Types
 - ✅ Day 004 - Operators
+- ✅ Day 005 - If Else
