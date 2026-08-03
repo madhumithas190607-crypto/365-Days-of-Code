@@ -9,3 +9,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 003 - Data Types
 - ✅ Day 004 - Operators
 - ✅ Day 005 - If Else
+- ✅ Day 006 - Switch Case
