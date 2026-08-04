@@ -10,3 +10,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 004 - Operators
 - ✅ Day 005 - If Else
 - ✅ Day 006 - Switch Case
+- ✅ Day 007 - For Loop
