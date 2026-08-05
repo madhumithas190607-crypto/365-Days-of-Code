@@ -11,3 +11,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 005 - If Else
 - ✅ Day 006 - Switch Case
 - ✅ Day 007 - For Loop
+- ✅ Day 008 - While Loop
