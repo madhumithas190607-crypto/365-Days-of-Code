@@ -15,3 +15,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 009 - Do While Loop
 - ✅ Day 010 - Arrays
 - ✅ Day 011 - Find Largest Number
+- ✅ Day 012 - Find Smallest Number
