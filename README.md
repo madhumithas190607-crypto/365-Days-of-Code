@@ -17,3 +17,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 011 - Find Largest Number
 - ✅ Day 012 - Find Smallest Number
 - ✅ Day 013 - Count Even and Odd Numbers
+- ✅ Day 014 - Methods
