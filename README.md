@@ -19,3 +19,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 013 - Count Even and Odd Numbers
 - ✅ Day 014 - Methods
 - ✅ Day 015 - Methods with Parameters
+- ✅ Day 016 - Methods with Return Value
