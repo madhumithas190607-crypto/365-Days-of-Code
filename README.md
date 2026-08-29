@@ -22,3 +22,5 @@ This repository contains my daily Java coding practice.
 - ✅ Day 016 - Methods with Return Value
 - ✅ Day 017 - Strings
 - ✅ Day 018 - String Comparison
+- ✅ Day 019 - String Methods
+- 
