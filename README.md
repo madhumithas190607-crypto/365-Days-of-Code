@@ -23,4 +23,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 017 - Strings
 - ✅ Day 018 - String Comparison
 - ✅ Day 019 - String Methods
-- - ✅ Day 020 - StringBuilder
+- ✅ Day 020 - StringBuilder
