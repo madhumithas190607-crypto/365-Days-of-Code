@@ -28,3 +28,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 022 - Constructors
 - ✅ Day 023 - this Keyword
 - ✅ Day 024 - Encapsulation
+- ✅ Day 025 - Inheritance
