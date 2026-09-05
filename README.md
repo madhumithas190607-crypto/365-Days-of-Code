@@ -29,3 +29,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 023 - this Keyword
 - ✅ Day 024 - Encapsulation
 - ✅ Day 025 - Inheritance
+- ✅ Day 026 - Method Overriding
