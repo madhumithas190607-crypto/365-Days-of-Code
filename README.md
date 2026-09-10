@@ -32,3 +32,5 @@ This repository contains my daily Java coding practice.
 - ✅ Day 026 - Method Overriding
 - ✅ Day 027 - Polymorphism
 - ✅ Day 028 - Abstraction
+- ✅ Day 029 - Interfaces in Java
+- ✅ Day 030 - Multiple Interfaces
