@@ -34,3 +34,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 028 - Abstraction
 - ✅ Day 029 - Interfaces in Java
 - ✅ Day 030 - Multiple Interfaces
+- ✅ Day 031 - Final Keyword
