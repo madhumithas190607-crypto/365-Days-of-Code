@@ -35,3 +35,4 @@ This repository contains my daily Java coding practice.
 - ✅ Day 029 - Interfaces in Java
 - ✅ Day 030 - Multiple Interfaces
 - ✅ Day 031 - Final Keyword
+- ✅ Day 032 - Static Keyword
