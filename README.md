@@ -36,3 +36,5 @@ This repository contains my daily Java coding practice.
 - ✅ Day 030 - Multiple Interfaces
 - ✅ Day 031 - Final Keyword
 - ✅ Day 032 - Static Keyword
+- ✅ Day 033 - Access Modifiers
+  
