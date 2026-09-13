@@ -1,5 +1,6 @@
 class Student {
 
+    @SuppressWarnings("FieldMayBeFinal")
     private String name = "Madhumitha";
 
     public void display() {
